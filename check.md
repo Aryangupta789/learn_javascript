@@ -1,3 +1,3 @@
-#heading
-##this is for the prcatice only
+# heading
+## this is for the prcatice only
 :)
